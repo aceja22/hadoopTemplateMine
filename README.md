@@ -2,15 +2,10 @@
 
 ## Team members' names 
 
-1. Student Name:
+1. Student Name: Anthony Ceja
 
-   Student UT EID:
+   Student UT EID: ac76267
 
-2. Student Name:
-
-   Student UT EID:
-
- ...
 
 ##  Course Name: CS378 - Cloud Computing 
 
